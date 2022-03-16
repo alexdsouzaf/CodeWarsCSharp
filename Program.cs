@@ -22,4 +22,5 @@ int[] a = new int[5] { 1, -2, 3, 4, -5 };
 //ReverseListOrder.ReverseList(b);
 
 //Whatisbetween.Between(0, 3);
-SumTheStrings.StringsSum("1" , "A");
+//SumTheStrings.StringsSum("1" , "A");
+LoveDetector.lovefunc(1, 4);
