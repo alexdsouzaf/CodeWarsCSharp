@@ -12,7 +12,7 @@ Console.WriteLine("Zona de Teste!");
 //string[] a = new string[3] { "frase", "teste", "ok" };
 //SentenceSmash.Smash(a);
 
-int[] a = new int[5] { 1, -2, 3, 4, -5 };
+int[] a = new int[6] { 4, 3, 9, 7, 2, 1 };
 //SumOfPositive.PositiveSum(a);
 
 //List<int> b = new List<int>();
@@ -23,4 +23,11 @@ int[] a = new int[5] { 1, -2, 3, 4, -5 };
 
 //Whatisbetween.Between(0, 3);
 //SumTheStrings.StringsSum("1" , "A");
-LoveDetector.lovefunc(1, 4);
+//LoveDetector.lovefunc(1, 4);
+
+//var v = SquareRootOrNot.SquareOrSquareRoot(a);
+//foreach (var item in v)
+//{
+//    Console.WriteLine(item);
+//}
+
