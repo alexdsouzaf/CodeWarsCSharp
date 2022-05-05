@@ -31,6 +31,7 @@ namespace ExerciciosCodeWars
             }
         }
         public static int ToInt32(this decimal num ) => Convert.ToInt32(num);
+        public static int ToInt32(this string num ) => Convert.ToInt32(num);
     }
 
 
