@@ -31,3 +31,10 @@ int[] a = new int[6] { 4, 3, 9, 7, 2, 1 };
 //    Console.WriteLine(item);
 //}
 HumanReadableTime.GetReadableTime(359999);
+
+//Math.Pow(2, 10);
+//string input = "a b";
+//input.
+//Countofpositives_sumofnegatives.CountPositivesSumNegatives(new[] { 0, 2, 3, 0, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14 });
+Countofpositives_sumofnegatives.CountPositivesSumNegatives(new int[] { });
+
