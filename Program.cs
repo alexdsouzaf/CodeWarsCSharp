@@ -36,5 +36,27 @@ HumanReadableTime.GetReadableTime(359999);
 //string input = "a b";
 //input.
 //Countofpositives_sumofnegatives.CountPositivesSumNegatives(new[] { 0, 2, 3, 0, 5, 6, 7, 8, 9, 10, -11, -12, -13, -14 });
-Countofpositives_sumofnegatives.CountPositivesSumNegatives(new int[] { });
+//Countofpositives_sumofnegatives.CountPositivesSumNegatives(new int[] { });
 
+
+//var data = 1;
+//var reultado = data switch
+//{
+//    1 => "Alex",
+//    2 => "Juan",
+//};
+//string resultado = string.Empty;
+//switch (data)
+//{
+//    case 1:
+//        resultado = "Alex";
+//        break;
+//    case 2:
+//        resultado = "Juan";
+//        break;
+//    default:
+//        break;
+//}
+//Console.WriteLine(reultado);
+//Console.ReadKey();
+//Iloveyoualittlealotpassionatelynotatall.HowMuchILoveYou(7);
