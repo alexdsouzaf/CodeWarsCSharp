@@ -30,8 +30,8 @@ namespace ExerciciosCodeWars
                 i++;
             }
         }
-        public static int ToInt32(this decimal num ) => Convert.ToInt32(num);
-        public static int ToInt32(this string num ) => Convert.ToInt32(num);
+        public static int ToInt32<T>(this T num ) => Convert.ToInt32(num);
+        public static long ToInt64<T>(this T num ) => Convert.ToInt64(num);
     }
 
 
