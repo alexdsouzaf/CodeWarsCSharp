@@ -60,3 +60,6 @@ HumanReadableTime.GetReadableTime(359999);
 //Console.WriteLine(reultado);
 //Console.ReadKey();
 //Iloveyoualittlealotpassionatelynotatall.HowMuchILoveYou(7);
+
+//NarcissisticNumbers.IsNarcissistic(153); //por fazer
+ROT13.Rot13("EBG13 rknzcyr.");
